@@ -233,6 +233,16 @@ finally, and finalize?](./java.md/9.md)
 
 10.[Why String is immutable in Java?](./java.md/10.md)
 
+11.[What will be the initial value of an object reference which is defined as an instance variable?](./java.md/11.md)
+
+12.[Does constructor return any value?](./java.md/12.md)
+
+13.[Is constructor inherited?](./java.md/13.md)
+
+14.[Can you make a constructor final?](./java.md/14.md)
+
+15.[Can we overload the constructors?](./java.md/15.md)
+
 
 ##  Common Job Interview Questions
 
